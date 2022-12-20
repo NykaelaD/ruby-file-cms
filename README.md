@@ -1,2 +1,3 @@
 # ruby-file-cms
-A small ruby content management system CRUD application.
+A Ruby content management system CRUD application.
+(Ruby, Sinatra, HTML)
